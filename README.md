@@ -1,5 +1,3 @@
-<!--
-**praabindhp/praabindhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Howdy, I'm Praabindh [website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -74,3 +72,6 @@
 [youtube]: https://www.youtube.com/c/PRAABINDHPRADEEP
 [instagram]: https://www.instagram.com/praabindhp/
 [linkedin]: https://www.linkedin.com/in/praabindh-pradeep-87354b1ba/
+
+<!--
+**praabindhp/praabindhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
