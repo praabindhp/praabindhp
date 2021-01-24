@@ -1,9 +1,6 @@
 
 ## Howdy, I'm Praabindh 👋
 
-[![Website]](https://www.youtube.com/c/PRAABINDHPRADEEP)
-[![Facebook Follow]](https://www.facebook.com/praabindh.pradeep)
-
 ### I'm An Actor , Film Maker, Developer & A Student!!
 
 - I Was Released On 10th December 2K
@@ -16,11 +13,11 @@
 - 😄 Pronouns: I/He/His/Him
 - Actor 🎭 - Dancer 🕺 - Swimmer 🏊🏻‍♂️ - Sportsman 🚴 - Film Maker 🎬 - High On Visual Creativity... 🎨✒️
 - Also Loves Innovation
-
+<br />
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+<br />
 ### Connect With Me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -63,7 +60,7 @@
 ➡️ [More Videos...](https://www.youtube.com/c/PRAABINDHPRADEEP)
 
 </details>
-
+<br />
 [website]: https://www.youtube.com/c/PRAABINDHPRADEEP
 [course]: https://www.udemy.com/user/praabindh-p-2/
 [twitter]: https://twitter.com/praabindhp
@@ -71,6 +68,7 @@
 [instagram]: https://www.instagram.com/praabindhp/
 [linkedin]: https://www.linkedin.com/in/praabindh-pradeep-87354b1ba/
 
+<br />
 <!--
 **praabindhp/praabindhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
