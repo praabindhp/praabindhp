@@ -8,7 +8,7 @@
 - 💬 Ask me about Artificial Intelligence, Machine Learning, Python Programming, Front End Designing
 - 📫 How to reach me: praabindhp@gmail.com, Instagram: @praabindhp
 - 😄 Pronouns: I/He/His/Him
-- Pythonista
+- Python Developer
 - Senible && Hard Headed
 - Actor 🎭
 - Dancer 🕺
