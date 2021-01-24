@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praabindhp" alt="praabindhp" /></a> </p>
-
 - 🔭 I’m currently working on [Project H.A.L.E., Zeta Alphox Pro](https://drive.google.com/file/d/1vQzjphMSagvZGjyl_8PSIQ6TLiIkoGhZ/view?usp=sharing)
 
 - 🌱 I’m currently learning **Django, Flask, MongoDB**
