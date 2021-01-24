@@ -1,4 +1,6 @@
 ### Howdy 👋
+- Welcome Everyone
+- I Was Released On 10th December 2K
 - 🔭 I’m currently working on Artificially Intelligent - Operating System
 - 🌱 I’m currently learning Full Stack Web Development - AWS
 - 👯 I’m looking to collaborate on building Operating Systems
@@ -6,7 +8,6 @@
 - 💬 Ask me about Artificial Intelligence, Machine Learning, Python Programming, Front End Designing
 - 📫 How to reach me: praabindhp@gmail.com, Instagram: @praabindhp
 - 😄 Pronouns: I/He/His/Him
-- Released On 10th December 2K
 - Pythonista
 - Senible && Hard Headed
 - Actor 🎭
