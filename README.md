@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 - 🔭 I’m currently working on Artificially Intelligent - Operating System
 - 🌱 I’m currently learning Full Stack Web Development - AWS
 - 👯 I’m looking to collaborate on building Operating Systems
