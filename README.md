@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Deep Learning With Computer Vision](https://drive.google.com/file/d/1vQzjphMSagvZGjyl_8PSIQ6TLiIkoGhZ/view?usp=sharing)
 
-- 💬 Ask me about **Artificial Intelligence , Python3 Development**
+- 💬 Ask me about **Artificial Intelligence , Python3 Development, C Programming**
 
 - 📫 How to reach me **praabindhp@gmail.com**
 
