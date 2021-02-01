@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **praabindhp@gmail.com**
 
-- ⚡ Fun fact **Actor 🎭 Dancer 🕺 Swimmer 🏊🏻‍♂️ Sportsman 🚴 Film Maker 🎬 High On Visual Creativity 🎨✒️**
+- ⚡ Fact About Me : **Actor 🎭 Dancer 🕺 Swimmer 🏊🏻‍♂️ Sportsman 🚴 Film Maker 🎬 High On Visual Creativity 🎨✒️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
