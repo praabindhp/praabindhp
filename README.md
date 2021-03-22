@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/praabindh-pradeep-87354b1ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/praabindh-pradeep-87354b1ba/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/praabindh.pradeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/praabindh.pradeep" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/praabindhp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/praabindhp/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/praabindhp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/praabindhp" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@praabindhp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@praabindhp" height="30" width="40" /></a>
+<a href="https://www.facebook.com/praabindh.pradeep/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/praabindh.pradeep" height="30" width="40" /></a>
+<a href="https://www.instagram.com/praabindhp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/praabindhp/" height="30" width="40" /></a>
+<a href="www.hackerrank.com/praabindhp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/praabindhp" height="30" width="40" /></a>
+<a href="www.hackerearth.com/@praabindhp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@praabindhp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
