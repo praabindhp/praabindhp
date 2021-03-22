@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project H.A.L.E. & Zeta Alphox Pro [ Z A P ]](https://drive.google.com/file/d/1vQzjphMSagvZGjyl_8PSIQ6TLiIkoGhZ/view?usp=sharing)
 
-- 🌱 I’m currently learning **ML Libraries, Fast API, React Native**
+- 🌱 I’m currently learning **Machine Learning Libraries, Fast API, React Native**
 
 - 👯 I’m looking to collaborate with **Creator, Developer/Programmer**
 
