@@ -21,17 +21,29 @@
 
 - 📄 Know About My Experiences [https://praabindhp.github.io/Praabindh_Resume/](https://praabindhp.github.io/Praabindh_Resume/)
 
+- My Top Projects : 
+
+  - [Enclone-Encoption](https://github.com/praabindhp/Enclone-Encoption)
+  - [Project Encoption](https://github.com/praabindhp/Encoption_2)
+  - [Zêta Alphôx Prô (Private)](https://github.com/praabindhp/Zeta_Alphox_Prime)
+  - [QRCode Encoding & Decoding](https://github.com/praabindhp/QRCode-Generator)
+  - [PDF Book Reader](https://github.com/praabindhp/Book_Reader)
+
 - Web Development :
 
   - [Crescita 2021 - School Event](https://github.com/praabindhp/Crescita-2021)
-  - [Praabindh's Website](https://github.com/praabindhp/Praabindh_Resume)
+  - [Tacty Randomizer](https://github.com/praabindhp/Tacty_Randomizer)
+  - [Praabindh's Resume Website](https://github.com/praabindhp/Praabindh_Resume)
   - [Hugo Event Logs](https://github.com/praabindhp/Hugo-Event_Logs)
+  - [Base Resume Site](https://github.com/praabindhp/Personal_Site-CV)
 
-- My Top Projects : 
+- My Programming Practices :
 
-  - [Zeta Alphox Prime](https://github.com/praabindhp/Zeta_Alphox_Prime)
-  - [Zeta Alphox Pro - Windows](https://github.com/praabindhp/Zeta_Alphox_Pro-Windows)
-  - [QRCode Encoding & Decoding](https://github.com/praabindhp/QRCode-Generator)
+  - [Quantum Development - Q#](https://github.com/praabindhp/Project_QRandom)
+  - [Anonymous Function - Python3](https://github.com/praabindhp/Lambda_Functions)
+  - [Project `Q` - C#](https://github.com/praabindhp/Project_Q)
+  - [Producer-Consumer Problem - C](https://github.com/praabindhp/Producer-Consumer_Problem)
+  - [Employee PayRoll - Java](https://github.com/praabindhp/Employee-Pay_Roll)
 
 - ⚡ Fact About Me : **Actor 🎭 Dancer 🕺 Swimmer 🏊🏻‍♂️ Sportsman 🚴 Film Maker 🎬 High On Visual Creativity 🎨✒️**
 
