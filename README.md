@@ -39,11 +39,11 @@
 
 - My Programming Practices :
 
-  - [Quantum Development - Q#](https://github.com/praabindhp/Project_QRandom)
-  - [Anonymous Function - Python3](https://github.com/praabindhp/Lambda_Functions)
-  - [Project `Q` - C#](https://github.com/praabindhp/Project_Q)
-  - [Producer-Consumer Problem - C](https://github.com/praabindhp/Producer-Consumer_Problem)
-  - [Employee PayRoll - Java](https://github.com/praabindhp/Employee-Pay_Roll)
+  - [Quantum Development - `Q#`](https://github.com/praabindhp/Project_QRandom)
+  - [Anonymous Function - `Python3`](https://github.com/praabindhp/Lambda_Functions)
+  - [Project Q - `C#`](https://github.com/praabindhp/Project_Q)
+  - [Producer-Consumer Problem - `C`](https://github.com/praabindhp/Producer-Consumer_Problem)
+  - [Employee PayRoll - `Java`](https://github.com/praabindhp/Employee-Pay_Roll)
 
 - ⚡ Fact About Me : **Actor 🎭 Dancer 🕺 Swimmer 🏊🏻‍♂️ Sportsman 🚴 Film Maker 🎬 High On Visual Creativity 🎨✒️**
 
