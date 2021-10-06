@@ -57,7 +57,7 @@ Web Development :
   - [Hugo Event Logs](https://github.com/praabindhp/Hugo-Event_Logs)
   - [Base Resume Site](https://github.com/praabindhp/Personal_Site-CV)
 
-My Programming Practices :
+Programming Practices :
 
   - [Quantum Development - `Q#`](https://github.com/praabindhp/Project_QRandom)
   - [Anonymous Function - `Python3`](https://github.com/praabindhp/Lambda_Functions)
