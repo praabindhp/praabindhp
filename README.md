@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
 
-- 🔭 I’m Currently Working on [Project H.A.L.E & Zeta Alphox Pro/Prime/Dev [Z A P]](https://drive.google.com/file/d/1vQzjphMSagvZGjyl_8PSIQ6TLiIkoGhZ/view)
+- 🔭 I’m Currently Working on [Project H.A.L.E & Zeta Alphox Pro/Prime/Dev [Z A P]](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
 
 - 🌱 I’m Currently Learning **Machine Learning Libraries, Computer Vision & Quantum Computing**
 
