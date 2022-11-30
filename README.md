@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
 
+- 🔱 Winning Team Lead For Smart India Hackathon - 2022 | Developed [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
+
 - 🔭 I’m Currently Working on [Project H.A.L.E & Zeta Alphox Pro/Prime/Dev [Z A P]](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
 
 - 🌱 I’m Currently Learning **Machine Learning Libraries, Computer Vision & Quantum Computing**
