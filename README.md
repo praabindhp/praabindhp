@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Praabindh Pradeep</h1>
 <h3 align="center">A Passionate Programmer/Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
 
 - 🔱 Winning Team Lead For Smart India Hackathon - 2022 | Developed [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
 
