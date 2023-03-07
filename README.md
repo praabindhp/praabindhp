@@ -9,7 +9,7 @@
 
 - 🌱 I’m Currently Learning **Machine Learning Libraries, Computer Vision & Quantum Computing**
 
-- 👯 I’m Looking To Collaborate With [Creator, Developer/Programmer](https://praabindhp.github.io/Crescita-2021/)
+- 👯 I’m Looking To Collaborate With [Back-end Developer / Programmer](https://praabindh.github.io/SchemaWind/)
 
 - 🤝 I’m Looking For Help With [Deep Learning With Computer Vision](https://github.com/praabindhp/Project_Q)
 
