@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Praabindh Pradeep</h1>
-<h3 align="center">A Passionate Programmer/Developer From India</h3>
+<h3 align="center">A Passionate Programmer / Developer From India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
 
@@ -46,8 +46,8 @@
 My Top Projects : 
 
   - [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
-  - [Project - H A L E](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
-  - [SchemaWind By Praabindh's Org](https://praabindh.github.io/SchemaWind/)
+  - [Project - HALE](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
+  - [The SCHEMAWIND](https://praabindh.github.io/SchemaWind/)
   - [The PRATOURS](https://github.com/praabindh/MERN-Pratours)
   - [Project - WOR-CORP](https://drive.google.com/file/d/13uCxgr1HmEZ5f4CA0Ku_rqWbrKvdLoJV/view?usp=sharing)
 
