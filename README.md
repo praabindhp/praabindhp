@@ -57,7 +57,7 @@ Web Development :
   - [Geekitrix 2022 - College Event](https://github.com/praabindhp/Geekitrix-2022)
   - [Praabindh's Resume Website](https://praabindhp.github.io/Praabindh_Resume/)
   - [Crescita 2021 - School Event](https://praabindhp.github.io/Crescita-2021/)
-  - [Tacty Randomizer](https://github.com/praabindhp/Tacty_Randomizer)
+  - [Project HALE : Wor-Corp](https://praabindhp.github.io/Wor-Corp-Dev/html/horizontal-menu-template/)
 
 Programming Practices :
 
