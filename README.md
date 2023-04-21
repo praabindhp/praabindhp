@@ -49,7 +49,7 @@ My Top Projects :
   - [Project - HALE](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
   - [The PRATOURS](https://github.com/praabindh/MERN-Pratours)
   - [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
-  - [The WOR-CORP](https://drive.google.com/file/d/13uCxgr1HmEZ5f4CA0Ku_rqWbrKvdLoJV/view?usp=sharing)
+  - [The WOR-CORP](https://praabindhp.github.io/Wor-Corp-Dev/html/horizontal-menu-template/)
 
 Web Development :
 
