@@ -67,8 +67,8 @@ Programming Practices :
   - [Project Q - `C#`](https://github.com/praabindhp/Project_Q)
   - [Producer-Consumer Problem - `C`](https://github.com/praabindhp/Producer-Consumer_Problem)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praabindhp&show_icons=true&locale=eninclude_all_commits=true&hide_border=true&theme=radical&layout=compact" alt="praabindhp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praabindhp&show_icons=true&locale=en&include_all_commits=true&hide_border=true&theme=radical&layout=compact" alt="praabindhp" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praabindhp&show_icons=trueinclude_all_commits=true&hide_border=true&theme=radical&locale=en" alt="praabindhp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praabindhp&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&locale=en" alt="praabindhp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praabindhp&hide_border=true&theme=radical" alt="praabindhp" /></p>
