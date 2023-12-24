@@ -54,7 +54,7 @@ My Top Projects :
 Web Development :
 
   - [The SchemaWind By Praabindh's Org](https://praabindh.github.io/SchemaWind/)
-  - [Geekitrix 2022 - College Event](https://github.com/praabindhp/Geekitrix-2022)
+  - [Geekitrix 2022 - College Event](http://geekitrix22.vercel.app/)
   - [Praabindh's Resume Website](https://praabindhp.github.io/Praabindh_Resume/)
   - [Crescita 2021 - School Event](https://praabindhp.github.io/Crescita-2021/)
   - [Project HALE : Wor-Corp](https://praabindhp.github.io/Wor-Corp-Dev/html/horizontal-menu-template/)
