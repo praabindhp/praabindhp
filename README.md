@@ -2,7 +2,7 @@
 <!-- Keep github-profile-assets/praabindh-cover.svg beside it using the included folder structure. -->
 
 <div align="center">
-  <img src="./github-profile-assets/praabindh-cover.svg" width="100%" alt="Praabindh P — Full Stack Engineer at ATI Robotics" />
+  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/a51ce2c9-d856-4ced-83f8-aa1d02b16e88" />
 </div>
 
 <div align="center">
@@ -25,27 +25,62 @@
 
 <h2 align="center">About me</h2>
 
-<p align="center">
+<p align="left">
   I am a <strong>Full Stack Engineer at ATI Robotics</strong>, building across the complete product stack.<br/>
   My work combines scalable web platforms, cloud-native systems, thoughtful interfaces, and applied AI.
 </p>
 
-| | |
-|:---:|:---:|
-| **Current role** | Full Stack Engineer · ATI Robotics |
-| **Engineering focus** | Distributed systems · Full-stack platforms · Cloud infrastructure · AI-enabled products |
-| **Graduate study** | M.Tech in Artificial Intelligence & Machine Learning · BITS Pilani · 2025–2027 |
-| **Based in** | Bengaluru, India |
-| **Beyond code** | Actor · Dancer · Swimmer · Sportsman · Filmmaker · Visual creator |
+<table width="100%">
+  <tr>
+    <td width="22%" align="left"><strong>Current role</strong></td>
+    <td width="78%" align="left">Full Stack Engineer · ATI Robotics</td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><strong>Engineering focus</strong></td>
+    <td width="78%" align="left">Distributed systems · Full-stack platforms · Cloud infrastructure · AI-enabled products</td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><strong>Graduate study</strong></td>
+    <td width="78%" align="left">M.Tech in Artificial Intelligence &amp; Machine Learning · BITS Pilani · 2025–2027</td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><strong>Based in</strong></td>
+    <td width="78%" align="left">Bengaluru, India</td>
+  </tr>
+  <tr>
+    <td width="22%" align="left"><strong>Beyond code</strong></td>
+    <td width="78%" align="left">Actor · Dancer · Swimmer · Sportsman · Filmmaker · Visual creator</td>
+  </tr>
+</table>
 
 <h2 align="center">Experience</h2>
 
-| Chapter | Role and impact |
-|:--:|:--:|
-| `NOW` | **ATI Robotics — Full Stack Engineer**<br/>Building across frontend, backend, platform, and product concerns. |
-| `PREVIOUS` | **Hinge Health, via Mirafra — Software Engineer**<br/>Contributed to Client Hub and Member Data Service using Next.js, NestJS, GraphQL BFF services, PostgreSQL, AWS, and distributed-system patterns. |
-| `PREVIOUS` | **Mirafra Technologies — Software Engineer**<br/>Developed Node.js/NestJS services, multi-tenant SaaS capabilities, RBAC, Kubernetes/EKS/ECS infrastructure, Terraform workflows, and CI/CD; led a team of 5+ engineers. |
-| `2023–2024` | **Codingmart Technologies — Software Engineer**<br/>Built full-stack products with React, Next.js, Node.js, Express, Firebase, relational and NoSQL databases, AWS/GCP, and Figma-led UI delivery. |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="16%" align="left">Chapter</th>
+      <th width="84%" align="left">Role and impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="16%" align="left"><code>NOW</code></td>
+      <td width="84%" align="left"><strong>ATI Robotics — Full Stack Engineer</strong><br/>Building across frontend, backend, platform, and product concerns.</td>
+    </tr>
+    <tr>
+      <td width="16%" align="left"><code>PREVIOUS</code></td>
+      <td width="84%" align="left"><strong>Hinge Health, via Mirafra — Software Engineer</strong><br/>Contributed to Client Hub and Member Data Service using Next.js, NestJS, GraphQL BFF services, PostgreSQL, AWS, and distributed-system patterns.</td>
+    </tr>
+    <tr>
+      <td width="16%" align="left"><code>PREVIOUS</code></td>
+      <td width="84%" align="left"><strong>Mirafra Technologies — Software Engineer</strong><br/>Developed Node.js/NestJS services, multi-tenant SaaS capabilities, RBAC, Kubernetes/EKS/ECS infrastructure, Terraform workflows, and CI/CD; led a team of 5+ engineers.</td>
+    </tr>
+    <tr>
+      <td width="16%" align="left"><code>2023–2024</code></td>
+      <td width="84%" align="left"><strong>Codingmart Technologies — Software Engineer</strong><br/>Built full-stack products with React, Next.js, Node.js, Express, Firebase, relational and NoSQL databases, AWS/GCP, and Figma-led UI delivery.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">Selected projects</h2>
 
@@ -81,7 +116,7 @@
 <br />
 
 | Product engineering | Platforms and data |
-|:---:|:---:|
+|:---|:---|
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) |
 | **Cloud and delivery** | **Architecture and intelligence** |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) | `Microservices` · `Clean Architecture` · `Design Patterns` · `Distributed Systems` · `Autonomous Agents` · `Generative AI` · `DSA in TypeScript` |
@@ -100,7 +135,7 @@
 <h2 align="center">Education</h2>
 
 | Period | Programme |
-|:---:|:---:|
+|:---|:---|
 | `2025–2027` | **M.Tech, Artificial Intelligence & Machine Learning** — BITS Pilani |
 | `2019–2023` | **B.E., Information Technology** — St. Joseph's College of Engineering · CGPA 9.0 |
 | `2017–2019` | **Higher Secondary Education** — Kendriya Vidyalaya CLRI · 80% |
