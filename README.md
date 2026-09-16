@@ -2,7 +2,7 @@
 <!-- Keep github-profile-assets/praabindh-cover.svg beside it using the included folder structure. -->
 
 <div align="center">
-  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/a51ce2c9-d856-4ced-83f8-aa1d02b16e88" />
+  <img width="2056" height="562" alt="LinkedIn-Cover" src="https://github.com/user-attachments/assets/9c947c5e-0b99-4a80-9a5d-5ffd8c8a0b03" />
 </div>
 
 <div align="center">
